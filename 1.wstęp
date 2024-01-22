@@ -1,0 +1,16 @@
+Linux to system operacyjny o otwartym kodzie źródłowym. 
+Został stworzony w dwóch częściach. Na początku lat 90. dwie różne osoby pracowały oddzielnie 
+nad projektami mającymi na celu ulepszenie inżynierii komputerowej. Pierwszą osobą był Linus Torvalds. 
+W tym czasie system operacyjny UNIX był już w użyciu. Chciał go ulepszyć i uczynić otwartym 
+i dostępnym dla każdego. Rewolucyjne było wprowadzenie przez niego jądra Linux.
+W podobnym do siebie czasie Richard Stallman rozpoczął prace nad GNU. GNU był systemem opartym również na UNIX-ie
+Stallman podzielał cel Torvaldsa, jakim było stworzenie oprogramowania, które byłoby wolne i otwarte dla każdego.
+Podczas prac nad GNU okazało sie, że brakującym elementem jest jądro. Współpraca Torvaldsa i Stallmana przerodziła
+się w to co jest tematem prezentacji, czyli Linuxa.
+
+To, co czyni wyjątkowym Linuxa jest to, że jest open-source co oznacza, że każdy może mieć dostęp
+do systemu operacyjnego i kodu źródłowego na wyciągnięcie ręki. Linux i wiele programów dostarczanych z Linuksem 
+jest licencjonowanych na warunkach licencji publicznej GNU, 
+co pozwala na ich swobodne używanie, udostępnianie i modyfikowanie. Dzięki filozofii open-source Linuksa, 
+a także silnemu zestawowi funkcji, cała społeczność programistów przyjęła ten system operacyjny. 
+Deweloperzy ci mogą współpracować nad projektami i wspólnie rozwijać informatykę.
